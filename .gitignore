@@ -1,0 +1,10 @@
+__pycache__/
+data_deal/__pycache__/
+
+.DS_Store
+
+data/
+data/2017-Dec-21--0621/
+data/2017-Dec-21--1828/
+
+
